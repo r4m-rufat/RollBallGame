@@ -1,0 +1,10 @@
+C:\Users\rufet\Desktop\NewGame\NewGame\bin\Debug\NewGame.exe.config
+C:\Users\rufet\Desktop\NewGame\NewGame\bin\Debug\NewGame.exe
+C:\Users\rufet\Desktop\NewGame\NewGame\bin\Debug\NewGame.pdb
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.RollBall.resources
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.Properties.Resources.resources
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.csproj.GenerateResource.cache
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.csproj.CoreCompileInputs.cache
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.exe
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.pdb
+C:\Users\rufet\Desktop\NewGame\NewGame\obj\Debug\NewGame.csproj.AssemblyReference.cache
